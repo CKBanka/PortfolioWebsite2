@@ -18,7 +18,7 @@ const Navbar = () => {
           <p className='nav'><a href="#foot">.<span style={{color:'#8892b0'}}>ReachMe</span><span style={{color:'#64ffda'}}>( )</span></a></p>
         </div>
       <div className="gpt3__navbar-sign">
-        <a href="https://drive.google.com/file/d/1LGe-y98ENQzkKQMc1KluWyONAcindoO5/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/147aqxp3CfVMweErYyXlSkOdRWp_psn5c/view?usp=sharing" target="_blank">
                       <button type="button" className="button">Resume</button>
                       </a>
       </div>
@@ -36,7 +36,7 @@ const Navbar = () => {
         
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
-            <a href="https://drive.google.com/file/d/1LGe-y98ENQzkKQMc1KluWyONAcindoO5/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/147aqxp3CfVMweErYyXlSkOdRWp_psn5c/view?usp=sharing" target="_blank">
                       <button type="button" className="button">Resume</button>
                       </a>
           </div>
